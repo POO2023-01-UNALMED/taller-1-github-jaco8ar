@@ -1,3 +1,4 @@
 Jacobo Ochoa Ramírez
 19 años
 Aspiro a mejorar mi lógica de programación, mejorar mis habilidades para el trabajo en equipo y aprender a programar en Java
+Como la carpeta ya no está vacia Github ya la reconoce y permite subirla
