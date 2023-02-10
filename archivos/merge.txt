@@ -1,0 +1,1 @@
+Como la carpeta ya no está vacia Github ya la reconoce y permite subirla
